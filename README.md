@@ -27,6 +27,6 @@ def circulate():
 ```
 
 ## Output:
-![Alt text](2.jpg.png)
+![Alt text](2.jpg-1.png)
 
 ## Result:
